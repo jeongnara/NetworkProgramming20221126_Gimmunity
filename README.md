@@ -20,4 +20,7 @@
    4. models
       1. Notice
       2. python manage.py makemigrations notice
-      3. python manage.py migrate notice  
+      3. python manage.py migrate notice 
+   5. admin
+      1. NoticeAdmin
+      2. python manage.py createsuperuser  
