@@ -21,6 +21,12 @@
       1. Notice
       2. python manage.py makemigrations notice
       3. python manage.py migrate notice 
-   5. admin
-      1. NoticeAdmin
-      2. python manage.py createsuperuser  
+5. admin
+   1. NoticeAdmin
+   2. python manage.py createsuperuser
+6. views
+   1. NoticeListView
+7. templates
+   1. notice_list.html
+8. urls
+   1. notice:list
